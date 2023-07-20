@@ -69,6 +69,12 @@ https://learn.deeplearning.ai/
 
 https://ai4bi.beehiiv.com/p/ai-business-analytics
 
+### AI Startups Litmust Test
+
+https://www.nfx.com/post/ai-startup-litmus-test
+
+
+
 ### Communication
 
 
