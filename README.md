@@ -69,7 +69,22 @@ https://learn.deeplearning.ai/
 
 https://ai4bi.beehiiv.com/p/ai-business-analytics
 
+### Communication
 
+
+## Loom
+
+https://www.loom.com/
+
+## Slack
+
+
+## Zoom
+
+
+### Microsoft Teams
+
+## 
 
 ## Other Product Management Resources
 
@@ -79,9 +94,17 @@ Great tool to keep in mind to know which category of needs your product falls in
   
 https://en.wikipedia.org/wiki/Human_Universals
 
-### Marketplaces
+### For PM's building Marketplaces
 
 https://sarahtavel.medium.com/the-hierarchy-of-marketplaces-introduction-and-level-1-983995aa218e
+
+### For PM's biilding Analytics Products
+
+* https://aatir.substack.com/p/how-to-model-a-product-metrics-dashboard
+
+* https://aatir.substack.com/p/how-to-model-a-product-metrics-dashboard-ec6?
+
+
 
 ### Interview Preparation
 
@@ -105,14 +128,51 @@ https://www.reforge.com/
 
 https://brilliant.org/
 
+## Blogs for PMs
 
-## Thoughtful Blogs
+* 
 
-https://collabfund.com/blog/
 
-### UI/UX Resources
+## Other Thoughtful Blogs
+
+* https://collabfund.com/blog/
+
+### Wireframing/Prototyping/UI/UX Resources
+
 
 https://www.howtomakesenseofanymess.com/
+
+## Miro
+
+https://miro.com/
+
+## Draw.io
+
+https://app.diagrams.net/
+
+### Competitor Research and Alternatives
+
+## G2 
+
+https://www.g2.com/
+
+## Spyfu
+
+https://www.spyfu.com/
+
+## Similarweb
+
+https://www.similarweb.com/
+
+## Alternativesto
+
+https://alternativeto.net/
+
+
+## Capterra
+
+https://www.capterra.com/
+
 
 ### Frameworks for PMs
 
@@ -124,7 +184,9 @@ https://huryn.substack.com/p/the-north-star-framework-101
 
 https://www.howtomakesenseofanymess.com/
 
+## Artifacts by Reforge
 
+https://artifacts.reforge.com/
 
 
 
@@ -161,6 +223,15 @@ https://www.amazon.com/Thales-S-Teixeira-ebook/dp/B07D6BD87K/ref=sr_1_1?crid=2SN
 I have been fascinated by Peter Thiel’s ability to hold two opposing thoughts at the same time. His books, interviews, thought process is fascinating.
 
 https://www.amazon.com/dp/B00M284NY2/ref=sr_1_1?crid=1U1NTLH5XB3X1&dchild=1&keywords=zero+to+one&qid=1594925823&s=books&sprefix=zer%2Cstripbooks-intl-ship%2C254&sr=1-1
+
+
+### Misc
+
+## Visual Capitalist
+
+https://www.visualcapitalist.com/complete-breakdown-of-sp-500-companies/
+
+
 
 
 
