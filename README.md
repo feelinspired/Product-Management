@@ -9,3 +9,5 @@ Design
 **Product Management Courses**
 **Product Management Groups**
 **Product Management Books**
+** Human Universals**
+https://en.wikipedia.org/wiki/Human_Universals
