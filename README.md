@@ -5,15 +5,76 @@ Design
 **Product Management YouTube Channels**
   * Testing 1
   * Testing 2
-  * 
+
+
+    
+## AI Tools for Product Managers
+
+### ChatGPT
+
+I feel the paid version is well worth it!
+
+https://chat.openai.com/
+
+### UIZard
+
+Text to UI - Nice tool to quickly create some UX
+
+https://app.uizard.io/
+
+### Practice interviews
+
+https://interviewsby.ai/
+
+### Interview Synthetic Users 
+
+https://app.syntheticusers.com/
+
+### Create your own mini learning courses
+
+https://www.learn.xyz/
+
+
+### Midjourney
+
+Text to Pics - Create cool visuals
+
+https://www.midjourney.com/app/
+
+
+### Framer
+
+Create your own .ai landing page in minutes
+
+https://www.framer.com/
+
+
+### SiteGPT
+
+
+https://sitegpt.ai/
+
+
+### Replit
+
+https://replit.com/
+
+
+
+
 
 
 ## Other Product Management Resources
-Human Universals
+
+### Human Universals
 
 Great tool to keep in mind to know which category of needs your product falls into, as far as human needs are concerned.
   
 https://en.wikipedia.org/wiki/Human_Universals
+
+### Marketplaces
+
+https://sarahtavel.medium.com/the-hierarchy-of-marketplaces-introduction-and-level-1-983995aa218e
 
 ## Good Books for Product Managers
 
