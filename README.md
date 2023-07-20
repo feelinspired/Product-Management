@@ -9,6 +9,6 @@ Design
 
 
 ## Other Product Management Resources
-* Human Universals
-
+Human Universals
+  
 https://en.wikipedia.org/wiki/Human_Universals
