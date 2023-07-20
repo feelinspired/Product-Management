@@ -3,8 +3,7 @@ Product Management Blogs and Websites
 Design
 **Engineering**
 **Product Management YouTube Channels**
-  * Testing 1
-  * Testing 2
+
 
 
     
@@ -59,8 +58,16 @@ https://sitegpt.ai/
 
 https://replit.com/
 
+### AI Courses
+
+https://learn.deeplearning.ai/
 
 
+## Good Articles on AI
+
+### How to use AI in Business Analytics
+
+https://ai4bi.beehiiv.com/p/ai-business-analytics
 
 
 
@@ -75,6 +82,53 @@ https://en.wikipedia.org/wiki/Human_Universals
 ### Marketplaces
 
 https://sarahtavel.medium.com/the-hierarchy-of-marketplaces-introduction-and-level-1-983995aa218e
+
+### Interview Preparation
+
+* https://dailyproductprep.com/problems
+
+* https://www.productmanagementexercises.com/
+
+### Build your Product Sense Muscle
+
+* https://future.com/product-thinking
+
+* https://kwokchain.com/2020/06/19/why-figma-wins/
+
+* https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat
+
+### Product Management Courses
+
+https://www.reforge.com/
+
+### Other Learning Sources
+
+https://brilliant.org/
+
+
+## Thoughtful Blogs
+
+https://collabfund.com/blog/
+
+### UI/UX Resources
+
+https://www.howtomakesenseofanymess.com/
+
+### Frameworks for PMs
+
+## North Start Framework 101
+
+https://huryn.substack.com/p/the-north-star-framework-101
+
+## Make sense of any mess
+
+https://www.howtomakesenseofanymess.com/
+
+
+
+
+
+### 
 
 ## Good Books for Product Managers
 
