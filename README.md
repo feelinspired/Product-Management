@@ -10,7 +10,7 @@ Design
 **Product Management Groups**
 **Product Management Books**
 
-** Other Product Management Books**
+** Other Product Management Resources**
 * Human Universals
 
 https://en.wikipedia.org/wiki/Human_Universals
