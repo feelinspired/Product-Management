@@ -41,5 +41,5 @@ Welcome to this collection of resources curated for Product Managers. You will f
 * [The hierarchy of marketplaces - introduction and level 1](https://sarahtavel.medium.com/the-hierarchy-of-marketplaces-introduction-and-level-1-983995aa218e)
 * [How to model a product metrics dashboard](https://aatir.substack.com/p/how-to-model-a-product-metrics-dashboard)
 
-... (continue with the rest in the same way) ...
+
 
