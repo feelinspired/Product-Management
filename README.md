@@ -31,7 +31,8 @@ Welcome to this collection of resources curated for Product Managers. You will f
 * [AI Startups Litmus Test](https://www.nfx.com/post/ai-startup-litmus-test)
 
 ## Good Articles on Product Management
-* [How to Model a Product Metrics Dashboard - Part 1](https://aatir.substack.com/p/how-to-model-a-product-metrics-dashboard) - Modelling a Product Metrics Dashboard
+* [How to Model a Product Metrics Dashboard - Part 1](https://aatir.substack.com/p/how-to-model-a-product-metrics-dashboard) - Modelling a Product Metrics Dashboard - I
+* [How to Model a Product Metrics Dashboard - Part 2](https://aatir.substack.com/p/how-to-model-a-product-metrics-dashboard-ec6?) - Modelling a Product Metrics Dashboard - II
 
 ## Communication Tools
 * [Loom](https://www.loom.com/)
