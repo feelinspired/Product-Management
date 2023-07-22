@@ -40,6 +40,7 @@ A curated list of useful tools, articles, books, and other resources for Product
 * [Human Universals](https://en.wikipedia.org/wiki/Human_Universals)
 * [For PM's building Marketplaces](https://sarahtavel.medium.com/the-hierarchy-of-marketplaces-introduction-and-level-1-983995aa218e)
 * [For PM's building Analytics Products](https://aatir.substack.com/p/how-to-model-a-product-metrics-dashboard)
+* [Altnernatives not Competitors](https://brianbalfour.com/quick-takes/alternatives-not-competitors)
 
 ## Blogs for PMs
 * [Collaborative Fund Blog](https://collabfund.com/blog/)
