@@ -30,6 +30,9 @@ Welcome to this collection of resources curated for Product Managers. You will f
 * [How to use AI in Business Analytics](https://ai4bi.beehiiv.com/p/ai-business-analytics)
 * [AI Startups Litmus Test](https://www.nfx.com/post/ai-startup-litmus-test)
 
+## Good Articles on Product Management
+* [How to Model a Product Metrics Dashboard - Part 1] (https://aatir.substack.com/p/how-to-model-a-product-metrics-dashboard) - Modelling a Product Metrics Dashboard
+
 ## Communication Tools
 * [Loom](https://www.loom.com/)
 * [Slack](https://slack.com/)
